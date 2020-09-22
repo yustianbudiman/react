@@ -1,0 +1,7 @@
+{
+  "name": "core-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
